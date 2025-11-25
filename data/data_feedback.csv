@@ -1,0 +1,21 @@
+S#,teacher/course,comments,sentiment,aspect,length
+1,teacher,"way of teaching is good",positive,teaching skills,23
+2,teacher,"i have already written for my teacher. that he is the best",positive,general,58
+3,teacher,"best teacher with friendly nature and polite , talented and sincere",positive,general,67
+4,teacher,"great teacher",positive,general,13
+5,teacher,"good sense of humor",positive,general,19
+6,teacher,"sir is such a nice and inspirational teacher.",positive,general,45
+7,teacher,"he is very polite and supportive to his students.",positive,behaviour,49
+8,teacher,"he guides us very well.",positive,general,23
+9,teacher,"i would like thank him for all of his teachings.",positive,teaching skills,48
+10,teacher,"when the teacher was coming in the class he was always prepared and tought us clearly and even came to us to ask the queries if you have in this subject and even in the other courses.",positive,teaching skills,183
+11,teacher,"sir has very good teaching skills",positive,teaching skills,33
+12,teacher,"sir is very nice and polite.",positive,behaviour,28
+13,teacher,"my ict teacher is so humble and we can talk him and make question easily.",positive,behaviour,73
+14,teacher,"helpful person",positive,general,14
+15,teacher,"good knowledge",positive,knowledge,14
+16,course,"great course",positive,general,12
+17,course,"practical should be by our theory books. for example how to create network.",neutral,relevancy,75
+18,course,"learned ms office and some basic ict",positive,general,36
+19,course,"good exposure",positive,general,13
+20,course,"the course of ict help me to familiar with the technology.",positive,relevancy,58
